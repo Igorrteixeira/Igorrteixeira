@@ -8,6 +8,8 @@
   <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="igor-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="igor-git" height="30" width="40" src="![y5clicw559gztoxmzowp](https://user-images.githubusercontent.com/102987283/193334708-7079dec6-b283-4b41-836a-574deb4528d3.png)
+">
   
 </div>
   
